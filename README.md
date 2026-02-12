@@ -126,3 +126,26 @@ npm start
     <img src="./ProjectScreenShots/UserResources2.PNG" alt="Image"> <br>
     <img src="./ProjectScreenShots/UserResources3.PNG" alt="Image">
 </ul>
+<ul>
+    <li><h4>Logged In User Votes Page</h4></li>
+    <li>
+        User page where he can edit or delete his/her likes/dislikes he/she created for other user's resource ratings with proper buttons.
+    </li> <br>
+    <img src="./ProjectScreenShots/UserVotes.PNG" alt="Image"> <br>
+</ul>
+<ul>
+    <li><h4>Logged In User Comments Page</h4></li>
+    <li>
+        User page where he can edit or delete his/her comments he/she created for other user's resource ratings with proper buttons and forms.
+    </li> <br>
+    <img src="./ProjectScreenShots/UserComments.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UserComments2.PNG" alt="Image">
+</ul>
+<ul>
+    <li><h4>Logged In User Profile Settings Page</h4></li>
+    <li>
+        User page where he can edit/change/update or delete his/her accounts with proper buttons and forms.
+    </li> <br>
+    <img src="./ProjectScreenShots/UserSettings.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UserSettings2.PNG" alt="Image">
+</ul>
