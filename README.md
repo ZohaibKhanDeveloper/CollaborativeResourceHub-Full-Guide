@@ -71,7 +71,9 @@ npm start
 <ul>
     <li><h4>Home Page</h4></li>
     <li>This is a simple home page where user can read about the system onsite</li><br>
-    <img src="./ProjectScreenShots/Home.PNG" alt="Image">
+    <img src="./ProjectScreenShots/Home.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/Home2.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/HomeUnlog.PNG" alt="Image">
 </ul>
 <ul>
     <li><h4>Topics Page</h4></li>
@@ -148,4 +150,17 @@ npm start
     </li> <br>
     <img src="./ProjectScreenShots/UserSettings.PNG" alt="Image"> <br>
     <img src="./ProjectScreenShots/UserSettings2.PNG" alt="Image">
+</ul>
+<ul>
+    <li><h4>Following are some of the above pages but shows responsivness for small screens like mobile</h4></li>
+    <img src="./ProjectScreenShots/ResponsiveHome2.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/ResponsiveHome.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/LoginRes.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/LogoutPageResp.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/Registerresp.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UnloggedInResp.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UserResourcesResp.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/VotesResp.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UserSettingsResp.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UserSettingsResp2.PNG" alt="Image">
 </ul>
