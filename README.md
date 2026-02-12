@@ -45,7 +45,8 @@
 <pre>
 <code>
 # Clone the repository
-git clone [your-repo-link]
+git clone https://github.com/ZohaibKhanDeveloper/CollaborativeResourceHub-Backend
+git clone https://github.com/ZohaibKhanDeveloper/CollaborativeResourceHub-Frontend
 
 # Setup Backend (Django)
 cd backend
