@@ -99,3 +99,8 @@ npm start
     <img src="./ProjectScreenShots/TopicPage.PNG" alt="Image"> <br>
     <img src="./ProjectScreenShots/TopicPage2.PNG" alt="Image">
 </ul>
+<ul>
+    <li><h4>Public User Profile Page</h4></li>
+    <li>This page will be appear when a user click on the username in the topic page. The page lists all the detail of the user which can explain the reputation of the user in the plateform for other users. It lists all the topics he/she created all the resources and all the count of likes,dislikes,comments etc.</li> <br>
+    <img src="./ProjectScreenShots/PublicUser.PNG" alt="Image">
+</ul>
