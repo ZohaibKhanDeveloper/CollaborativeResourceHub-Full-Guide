@@ -11,7 +11,8 @@
 </div>
 
 <hr />
-
+<h2>Backend Repository: <a href="https://github.com/ZohaibKhanDeveloper/CollaborativeResourceHub-Backend" target='_blank'>Check Here</a></h2>
+<h2>Frontend Repository: <a href="https://github.com/ZohaibKhanDeveloper/CollaborativeResourceHub-Frontend" target='_blank'>Check Here</a></h2>
 <h2>📖 Project Overview</h2>
 <p>
   CollabHub is a 12-page professional platform designed for structured knowledge sharing. Users can organize resources under specific topics, engage through a social-interaction layer, and track growth via an integrated analytics dashboard.
