@@ -104,3 +104,8 @@ npm start
     <li>This page will be appear when a user click on the username in the topic page. The page lists all the detail of the user which can explain the reputation of the user in the plateform for other users. It lists all the topics he/she created all the resources and all the count of likes,dislikes,comments etc.</li> <br>
     <img src="./ProjectScreenShots/PublicUser.PNG" alt="Image">
 </ul>
+<ul>
+    <li><h4>Logged In User Dashboard Page</h4></li>
+    <li>When a user Successfully logged in to the system then he/she will be redirected to the dashbaord page where he/she can check thier activity my moving forward year details and back year details with line charts and one pie chart shows the count of likes dislikes and comments in total. Buttons are present to check each year detail monthly detail or activity for topics creation and resource collaboration.</li> <br>
+    <img src="./ProjectScreenShots/Dashboard.PNG" alt="Image">
+</ul>
