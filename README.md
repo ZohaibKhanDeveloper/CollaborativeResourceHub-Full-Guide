@@ -117,3 +117,12 @@ npm start
     <img src="./ProjectScreenShots/UserTopics.PNG" alt="Image"> <br>
     <img src="./ProjectScreenShots/UserTopics2.PNG" alt="Image">
 </ul>
+<ul>
+    <li><h4>Logged In User Resources Page</h4></li>
+    <li>
+        User page where he can edit or delete his/her resources he/she created for other user's topics with proper forms and buttons.
+    </li> <br>
+    <img src="./ProjectScreenShots/UserResources.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UserResources2.PNG" alt="Image"> <br>
+    <img src="./ProjectScreenShots/UserResources3.PNG" alt="Image">
+</ul>
