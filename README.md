@@ -72,24 +72,24 @@ npm start
     <li><h4>Home Page</h4></li>
     <li>This is a simple home page where user can read about the system onsite</li>
     <img src="./ProjectScreenShots/Home.PNG" alt="Image">
-</ul>
+</ul> <br>
 <ul>
     <li><h4>Topics Page</h4></li>
     <li>This page Shows all the topics for public user where thay can see and find the solutions fo his/her own problems</li>
     <img src="./ProjectScreenShots/Topics.PNG" alt="Image">
-</ul>
+</ul> <br>
 <ul>
     <li><h4>About Page</h4></li>
     <li>This page just shows about the developer information.</li>
     <img src="./ProjectScreenShots/About.PNG" alt="Image">
-</ul>
+</ul><br>
 <ul>
     <li><h4>Login Page</h4></li>
     <li>This page created for the user (which are already registered) for login to the system.</li>
     <img src="./ProjectScreenShots/Login.PNG" alt="Image">
-</ul>
+</ul><br>
 <ul>
     <li><h4>Register Page</h4></li>
     <li>This page created for the users to register and collaborate in the plateform.</li>
     <img src="./ProjectScreenShots/Register.PNG" alt="Image">
-</ul>
+</ul><br>
