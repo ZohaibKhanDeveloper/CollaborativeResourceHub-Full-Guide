@@ -68,3 +68,8 @@ npm start
 </div>
 
 <h2>Screenshots Of Project</h2>
+<ul>
+    <li><h4>Home Page</h4></li>
+    <li>This is a simple home page where user can read about the system onsite</li>
+    <li><img src="./ProjectScreenShots/Home.PNG" alt="Image"></li>
+</ul>
