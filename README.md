@@ -93,3 +93,8 @@ npm start
     <li>This page created for the users to register and collaborate in the plateform.</li><br>
     <img src="./ProjectScreenShots/Register.PNG" alt="Image">
 </ul>
+<ul>
+    <li><h4>Topic Page (With Resources)</h4></li>
+    <li>This page will be shown when a user click on the topic title. This page lists all the resources created for this topic along with the resource's likes, dislikes, comments, date, time etc. Also if the logged in user click then he/she can create a resource for this topic can also comment and can like or dislike other resources as well.</li> <br>
+    <img src="./ProjectScreenShots/TopicPage.PNG" alt="Image">
+</ul>
